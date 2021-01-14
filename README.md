@@ -12,8 +12,6 @@
 
 ## 설치 및 실행
 
----
-
 ### 설치
 
 ```js
@@ -30,8 +28,6 @@ $ npm start
 
 ## 스택
 
----
-
 <br>
 
 - **Client** : Javscript(ES6), React, HTML/CSS<br><br>
@@ -40,17 +36,15 @@ $ npm start
 
 ## 서비스 시연
 
----
-
 <br>
 
 - 회원가입/로그인<br>
-  <img src="demo/signup_login_logout.gif" width="60%" height="60%"><br><br>
+  <img src="client/demo/signup_login_logout.gif" width="60%" height="60%"><br><br>
 - 새로운 습관 만들기<br>
-  <img src="demo/makeHabits.gif" width="60%" height="60%"><br><br>
+  <img src="client/demo/makeHabits.gif" width="60%" height="60%"><br><br>
 - 습관 수정 및 삭제<br>
-  <img src="demo/modify_delete.gif" width="60%" height="60%"><br><br>
+  <img src="client/demo/modify_delete.gif" width="60%" height="60%"><br><br>
 - 습관 관련 구체적인 사항 확인<br>
-  <img src="demo/detailOfHabit.gif" width="60%" height="60%"><br><br>
+  <img src="client/demo/detailOfHabit.gif" width="60%" height="60%"><br><br>
 - 전체 달력 보기<br>
-  <img src="demo/totalCalendar.gif" width="60%" height="60%"><br><br>
+  <img src="client/demo/totalCalendar.gif" width="60%" height="60%"><br><br>
