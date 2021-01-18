@@ -1,4 +1,4 @@
-# Zeroto66-Server
+# Zeroto66-Client
 
 **"습관이 만들어지는데 걸리는 시간 66일"**
 
